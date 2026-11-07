@@ -1,5 +1,3 @@
-"""Move existing private configuration to the Regulatrace namespace without rotating keys."""
-
 import argparse
 import json
 import os
