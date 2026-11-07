@@ -1,5 +1,8 @@
 # Upstream source and contribution record
 
+The Regulatrace distribution and its deployment are maintained by
+[Abdul Aleem Ansari (@Aleem547)](https://github.com/Aleem547).
+
 Regulatrace adapts original regulatory-research code by
 [Faizan0602](https://github.com/Faizan0602) and upstream contributors.
 The original repository is identified by its stable

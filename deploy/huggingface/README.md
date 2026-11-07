@@ -12,6 +12,8 @@ pinned: false
 
 # Regulatrace
 
+**Maintainer:** [Abdul Aleem Ansari (@Aleem547)](https://github.com/Aleem547).
+
 An upload-based, temporary-session demo of the document question-answering workflow.
 Uses local FastEmbed BM25/Qdrant, BGE reranking on ZeroGPU and Groq generation.
 

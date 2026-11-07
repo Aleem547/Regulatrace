@@ -12,6 +12,9 @@ license = { text = "MIT" }
 authors = [
     { name = "Faizan0602 and upstream contributors" }
 ]
+maintainers = [
+    { name = "Abdul Aleem Ansari" }
+]
 dependencies = [
     "pydantic-settings>=2.0.0",
     "sentence-transformers>=2.2.0",
@@ -25,6 +28,11 @@ dependencies = [
 "psycopg2-binary>=2.9.0,<3.0.0",
 "alembic>=1.13.0,<2.0.0",
 ]
+
+[project.urls]
+Homepage = "https://regulatrace-web-8b9b4e15.vercel.app"
+Repository = "https://github.com/Aleem547/Regulatrace"
+Maintainer = "https://github.com/Aleem547"
 
 [project.optional-dependencies]
 

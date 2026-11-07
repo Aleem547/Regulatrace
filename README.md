@@ -1,5 +1,7 @@
 # Regulatrace - Regulatory Intelligence for RBI & SEBI
 
+**Maintainer:** [Abdul Aleem Ansari (@Aleem547)](https://github.com/Aleem547).
+
 See [source credit and permissions](UPSTREAM.md). The original research
 implementation and historical benchmark artifacts are attributed to their
 upstream authors. Those experiments were not rerun against the recovered corpus.
