@@ -1,5 +1,3 @@
-"""Assemble isolated deployment roots without heavy root-project API dependencies."""
-
 import argparse
 import hashlib
 import json
