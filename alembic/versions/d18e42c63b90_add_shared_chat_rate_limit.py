@@ -1,9 +1,3 @@
-"""Shared chat rate limit for serverless replicas.
-
-Revision ID: d18e42c63b90
-Revises: c72d6a91e405
-"""
-
 import sqlalchemy as sa
 from alembic import op
 
