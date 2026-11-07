@@ -1,0 +1,40 @@
+{
+  "status": "live_core_verified",
+  "web_url": "https://regulatrace-web-8b9b4e15.vercel.app",
+  "api_url": "https://regulatrace-api-8b9b4e15.vercel.app",
+  "space_commit": "acaae9b9c89d1d1019bc6147703d9b2c2f15f041",
+  "corpus": {
+    "documents": 42,
+    "dense_points": 672,
+    "bm25_points": 672,
+    "dense_collection": "regulatrace_b6f8499e53df_dense",
+    "bm25_collection": "regulatrace_b6f8499e53df_bm25"
+  },
+  "verification": {
+    "api_health": "passed",
+    "postgres_qdrant_readiness": "passed",
+    "chat_authentication": "passed",
+    "registration": "passed",
+    "login": "passed",
+    "qdrant_worker_groq_chat": "passed",
+    "source_answer": "passed",
+    "real_pdf_page_citation": "passed",
+    "follow_up_memory": "passed",
+    "token_refresh": "passed",
+    "existing_token_compatibility": "passed",
+    "persistent_history": "passed",
+    "saved_session_list": "passed",
+    "session_owner_isolation": "passed",
+    "postgres_concurrent_rate_limit": "passed",
+    "replica_shared_rate_limit": "passed",
+    "frontend_api_cors": "passed",
+    "frontend_page": "passed",
+    "frontend_assets": "passed"
+  },
+  "branding": {
+    "name": "Regulatrace",
+    "python_package": "regulatrace",
+    "configuration_prefix": "REGULATRACE_",
+    "retired_settings_removed": 15
+  }
+}

@@ -1,0 +1,293 @@
+{
+  "timestamp_utc": "2026-10-15T13:13:29.110974Z",
+  "configuration": {
+    "method": "bm25_rerank",
+    "collection": "regulatrace_bm25",
+    "candidate_k": 20,
+    "final_k": 5,
+    "reranker_model": "BAAI/bge-reranker-base"
+  },
+  "counts": {
+    "development": 48,
+    "answerable": 41,
+    "unanswerable": 7,
+    "holdout_excluded": 12
+  },
+  "score_behavior": {
+    "activation": "Sigmoid",
+    "observed_min": 0.07554581761360168,
+    "observed_max": 0.9999206066131592,
+    "note": "Scores are not calibrated probabilities; null means no candidates."
+  },
+  "per_question": [
+    {
+      "id": "G002",
+      "answerable": true,
+      "top_rerank_score": 0.9974865913391113
+    },
+    {
+      "id": "G003",
+      "answerable": true,
+      "top_rerank_score": 0.8640074133872986
+    },
+    {
+      "id": "G004",
+      "answerable": true,
+      "top_rerank_score": 0.9988607168197632
+    },
+    {
+      "id": "G005",
+      "answerable": true,
+      "top_rerank_score": 0.998599112033844
+    },
+    {
+      "id": "G006",
+      "answerable": true,
+      "top_rerank_score": 0.9999206066131592
+    },
+    {
+      "id": "G007",
+      "answerable": true,
+      "top_rerank_score": 0.9300212264060974
+    },
+    {
+      "id": "G008",
+      "answerable": true,
+      "top_rerank_score": 0.979036271572113
+    },
+    {
+      "id": "G009",
+      "answerable": true,
+      "top_rerank_score": 0.9549172520637512
+    },
+    {
+      "id": "G010",
+      "answerable": true,
+      "top_rerank_score": 0.9769445061683655
+    },
+    {
+      "id": "G011",
+      "answerable": true,
+      "top_rerank_score": 0.9669533967971802
+    },
+    {
+      "id": "G012",
+      "answerable": true,
+      "top_rerank_score": 0.9989803433418274
+    },
+    {
+      "id": "G013",
+      "answerable": true,
+      "top_rerank_score": 0.9989581108093262
+    },
+    {
+      "id": "G015",
+      "answerable": false,
+      "top_rerank_score": 0.07554581761360168
+    },
+    {
+      "id": "G016",
+      "answerable": true,
+      "top_rerank_score": 0.9998760223388672
+    },
+    {
+      "id": "G017",
+      "answerable": true,
+      "top_rerank_score": 0.9990315437316895
+    },
+    {
+      "id": "G020",
+      "answerable": true,
+      "top_rerank_score": 0.9966148734092712
+    },
+    {
+      "id": "G021",
+      "answerable": true,
+      "top_rerank_score": 0.9864413142204285
+    },
+    {
+      "id": "G022",
+      "answerable": true,
+      "top_rerank_score": 0.9858044385910034
+    },
+    {
+      "id": "G024",
+      "answerable": true,
+      "top_rerank_score": 0.7220895290374756
+    },
+    {
+      "id": "G026",
+      "answerable": true,
+      "top_rerank_score": 0.6839589476585388
+    },
+    {
+      "id": "G027",
+      "answerable": true,
+      "top_rerank_score": 0.9957072734832764
+    },
+    {
+      "id": "G028",
+      "answerable": true,
+      "top_rerank_score": 0.9213868379592896
+    },
+    {
+      "id": "G029",
+      "answerable": false,
+      "top_rerank_score": 0.676255464553833
+    },
+    {
+      "id": "G030",
+      "answerable": false,
+      "top_rerank_score": 0.9913732409477234
+    },
+    {
+      "id": "G031",
+      "answerable": true,
+      "top_rerank_score": 0.9955406785011292
+    },
+    {
+      "id": "G032",
+      "answerable": true,
+      "top_rerank_score": 0.9588736295700073
+    },
+    {
+      "id": "G034",
+      "answerable": true,
+      "top_rerank_score": 0.9994290471076965
+    },
+    {
+      "id": "G035",
+      "answerable": true,
+      "top_rerank_score": 0.9934107661247253
+    },
+    {
+      "id": "G036",
+      "answerable": true,
+      "top_rerank_score": 0.9888446927070618
+    },
+    {
+      "id": "G037",
+      "answerable": true,
+      "top_rerank_score": 0.9986525774002075
+    },
+    {
+      "id": "G038",
+      "answerable": true,
+      "top_rerank_score": 0.9775459170341492
+    },
+    {
+      "id": "G039",
+      "answerable": true,
+      "top_rerank_score": 0.9919835925102234
+    },
+    {
+      "id": "G040",
+      "answerable": true,
+      "top_rerank_score": 0.9964625239372253
+    },
+    {
+      "id": "G042",
+      "answerable": true,
+      "top_rerank_score": 0.32238081097602844
+    },
+    {
+      "id": "G043",
+      "answerable": true,
+      "top_rerank_score": 0.9987803101539612
+    },
+    {
+      "id": "G044",
+      "answerable": false,
+      "top_rerank_score": 0.5993192195892334
+    },
+    {
+      "id": "G045",
+      "answerable": false,
+      "top_rerank_score": 0.4235834777355194
+    },
+    {
+      "id": "G046",
+      "answerable": true,
+      "top_rerank_score": 0.9841391444206238
+    },
+    {
+      "id": "G047",
+      "answerable": true,
+      "top_rerank_score": 0.9949010610580444
+    },
+    {
+      "id": "G048",
+      "answerable": true,
+      "top_rerank_score": 0.9925832748413086
+    },
+    {
+      "id": "G050",
+      "answerable": true,
+      "top_rerank_score": 0.6363317966461182
+    },
+    {
+      "id": "G051",
+      "answerable": true,
+      "top_rerank_score": 0.9983360171318054
+    },
+    {
+      "id": "G052",
+      "answerable": true,
+      "top_rerank_score": 0.8634113669395447
+    },
+    {
+      "id": "G053",
+      "answerable": true,
+      "top_rerank_score": 0.9967407584190369
+    },
+    {
+      "id": "G055",
+      "answerable": true,
+      "top_rerank_score": 0.9196247458457947
+    },
+    {
+      "id": "G056",
+      "answerable": true,
+      "top_rerank_score": 0.8548190593719482
+    },
+    {
+      "id": "G058",
+      "answerable": false,
+      "top_rerank_score": 0.49638694524765015
+    },
+    {
+      "id": "G059",
+      "answerable": false,
+      "top_rerank_score": 0.9951027631759644
+    }
+  ],
+  "thresholds": [
+    {
+      "threshold": 0.0755458176136017,
+      "correct_refusals": 1,
+      "missed_refusals": 6,
+      "wrong_refusals": 0,
+      "correct_acceptances": 41,
+      "correct_refusal_rate": 0.14285714285714285,
+      "wrong_refusal_rate": 0.0
+    },
+    {
+      "threshold": 0.5993192195892335,
+      "correct_refusals": 4,
+      "missed_refusals": 3,
+      "wrong_refusals": 1,
+      "correct_acceptances": 40,
+      "correct_refusal_rate": 0.5714285714285714,
+      "wrong_refusal_rate": 0.024390243902439025
+    },
+    {
+      "threshold": 0.9951027631759645,
+      "correct_refusals": 7,
+      "missed_refusals": 0,
+      "wrong_refusals": 24,
+      "correct_acceptances": 17,
+      "correct_refusal_rate": 1.0,
+      "wrong_refusal_rate": 0.5853658536585366
+    }
+  ]
+}

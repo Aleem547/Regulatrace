@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="220">
+<rect width="800" height="220" fill="white"/>
+<text x="130" y="25">Top reranker scores (not probabilities)</text>
+<text x="10" y="80">Answerable (41)</text>
+<circle cx="748.4" cy="72" r="4" fill="#1769aa" opacity="0.7"/>
+<circle cx="658.8" cy="76" r="4" fill="#1769aa" opacity="0.7"/>
+<circle cx="749.3" cy="80" r="4" fill="#1769aa" opacity="0.7"/>
+<circle cx="749.1" cy="84" r="4" fill="#1769aa" opacity="0.7"/>
+<circle cx="750.0" cy="88" r="4" fill="#1769aa" opacity="0.7"/>
+<circle cx="703.1" cy="72" r="4" fill="#1769aa" opacity="0.7"/>
+<circle cx="736.0" cy="76" r="4" fill="#1769aa" opacity="0.7"/>
+<circle cx="719.8" cy="80" r="4" fill="#1769aa" opacity="0.7"/>
+<circle cx="734.6" cy="84" r="4" fill="#1769aa" opacity="0.7"/>
+<circle cx="727.9" cy="88" r="4" fill="#1769aa" opacity="0.7"/>
+<circle cx="749.4" cy="72" r="4" fill="#1769aa" opacity="0.7"/>
+<circle cx="749.4" cy="76" r="4" fill="#1769aa" opacity="0.7"/>
+<circle cx="750.0" cy="80" r="4" fill="#1769aa" opacity="0.7"/>
+<circle cx="749.4" cy="84" r="4" fill="#1769aa" opacity="0.7"/>
+<circle cx="747.8" cy="88" r="4" fill="#1769aa" opacity="0.7"/>
+<circle cx="741.0" cy="72" r="4" fill="#1769aa" opacity="0.7"/>
+<circle cx="740.5" cy="76" r="4" fill="#1769aa" opacity="0.7"/>
+<circle cx="563.7" cy="80" r="4" fill="#1769aa" opacity="0.7"/>
+<circle cx="538.1" cy="84" r="4" fill="#1769aa" opacity="0.7"/>
+<circle cx="747.2" cy="88" r="4" fill="#1769aa" opacity="0.7"/>
+<circle cx="697.3" cy="72" r="4" fill="#1769aa" opacity="0.7"/>
+<circle cx="747.1" cy="76" r="4" fill="#1769aa" opacity="0.7"/>
+<circle cx="722.5" cy="80" r="4" fill="#1769aa" opacity="0.7"/>
+<circle cx="749.7" cy="84" r="4" fill="#1769aa" opacity="0.7"/>
+<circle cx="745.6" cy="88" r="4" fill="#1769aa" opacity="0.7"/>
+<circle cx="742.6" cy="72" r="4" fill="#1769aa" opacity="0.7"/>
+<circle cx="749.1" cy="76" r="4" fill="#1769aa" opacity="0.7"/>
+<circle cx="735.0" cy="80" r="4" fill="#1769aa" opacity="0.7"/>
+<circle cx="744.7" cy="84" r="4" fill="#1769aa" opacity="0.7"/>
+<circle cx="747.7" cy="88" r="4" fill="#1769aa" opacity="0.7"/>
+<circle cx="295.6" cy="72" r="4" fill="#1769aa" opacity="0.7"/>
+<circle cx="749.2" cy="76" r="4" fill="#1769aa" opacity="0.7"/>
+<circle cx="739.4" cy="80" r="4" fill="#1769aa" opacity="0.7"/>
+<circle cx="746.6" cy="84" r="4" fill="#1769aa" opacity="0.7"/>
+<circle cx="745.1" cy="88" r="4" fill="#1769aa" opacity="0.7"/>
+<circle cx="506.1" cy="72" r="4" fill="#1769aa" opacity="0.7"/>
+<circle cx="748.9" cy="76" r="4" fill="#1769aa" opacity="0.7"/>
+<circle cx="658.4" cy="80" r="4" fill="#1769aa" opacity="0.7"/>
+<circle cx="747.9" cy="84" r="4" fill="#1769aa" opacity="0.7"/>
+<circle cx="696.1" cy="88" r="4" fill="#1769aa" opacity="0.7"/>
+<circle cx="652.7" cy="72" r="4" fill="#1769aa" opacity="0.7"/>
+<text x="10" y="140">Unanswerable (7)</text>
+<circle cx="130.0" cy="132" r="4" fill="#d35b24" opacity="0.7"/>
+<circle cx="532.9" cy="136" r="4" fill="#d35b24" opacity="0.7"/>
+<circle cx="744.3" cy="140" r="4" fill="#d35b24" opacity="0.7"/>
+<circle cx="481.3" cy="144" r="4" fill="#d35b24" opacity="0.7"/>
+<circle cx="363.4" cy="148" r="4" fill="#d35b24" opacity="0.7"/>
+<circle cx="412.3" cy="132" r="4" fill="#d35b24" opacity="0.7"/>
+<circle cx="746.8" cy="136" r="4" fill="#d35b24" opacity="0.7"/>
+<text x="130" y="190">0.07555</text>
+<text x="750" y="190" text-anchor="end">0.9999</text>
+<line x1="130" y1="170" x2="750" y2="170" stroke="#333"/>
+<text x="440" y="210" text-anchor="middle">Raw rerank_score</text>
+</svg>

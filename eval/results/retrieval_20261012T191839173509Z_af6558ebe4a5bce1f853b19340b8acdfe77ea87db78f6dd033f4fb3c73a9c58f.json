@@ -1,0 +1,271 @@
+{
+  "timestamp_utc": "2026-10-12T19:18:39.173509Z",
+  "configuration_hash": "af6558ebe4a5bce1f853b19340b8acdfe77ea87db78f6dd033f4fb3c73a9c58f",
+  "configuration": {
+    "k": 5,
+    "embedding_model": "BAAI/bge-small-en-v1.5",
+    "qdrant_collection": "regulatrace_chunks"
+  },
+  "counts": {
+    "golden_questions": 60,
+    "holdout_questions": 12,
+    "development_questions": 48,
+    "answerable_evaluated": 41,
+    "unanswerable_excluded": 7
+  },
+  "metrics": {
+    "hit_at_k": 0.926829268292683,
+    "recall_at_k": 0.8560975609756097,
+    "mrr": 0.8861788617886178
+  },
+  "per_question": [
+    {
+      "id": "G002",
+      "hit_at_k": 1.0,
+      "recall_at_k": 1.0,
+      "reciprocal_rank": 1.0
+    },
+    {
+      "id": "G003",
+      "hit_at_k": 0.0,
+      "recall_at_k": 0.0,
+      "reciprocal_rank": 0.0
+    },
+    {
+      "id": "G004",
+      "hit_at_k": 1.0,
+      "recall_at_k": 1.0,
+      "reciprocal_rank": 1.0
+    },
+    {
+      "id": "G005",
+      "hit_at_k": 1.0,
+      "recall_at_k": 1.0,
+      "reciprocal_rank": 1.0
+    },
+    {
+      "id": "G006",
+      "hit_at_k": 1.0,
+      "recall_at_k": 1.0,
+      "reciprocal_rank": 1.0
+    },
+    {
+      "id": "G007",
+      "hit_at_k": 1.0,
+      "recall_at_k": 0.5,
+      "reciprocal_rank": 1.0
+    },
+    {
+      "id": "G008",
+      "hit_at_k": 1.0,
+      "recall_at_k": 0.6,
+      "reciprocal_rank": 1.0
+    },
+    {
+      "id": "G009",
+      "hit_at_k": 1.0,
+      "recall_at_k": 1.0,
+      "reciprocal_rank": 1.0
+    },
+    {
+      "id": "G010",
+      "hit_at_k": 1.0,
+      "recall_at_k": 1.0,
+      "reciprocal_rank": 1.0
+    },
+    {
+      "id": "G011",
+      "hit_at_k": 1.0,
+      "recall_at_k": 1.0,
+      "reciprocal_rank": 1.0
+    },
+    {
+      "id": "G012",
+      "hit_at_k": 1.0,
+      "recall_at_k": 0.5,
+      "reciprocal_rank": 1.0
+    },
+    {
+      "id": "G013",
+      "hit_at_k": 1.0,
+      "recall_at_k": 1.0,
+      "reciprocal_rank": 1.0
+    },
+    {
+      "id": "G016",
+      "hit_at_k": 1.0,
+      "recall_at_k": 1.0,
+      "reciprocal_rank": 1.0
+    },
+    {
+      "id": "G017",
+      "hit_at_k": 1.0,
+      "recall_at_k": 0.5,
+      "reciprocal_rank": 1.0
+    },
+    {
+      "id": "G020",
+      "hit_at_k": 1.0,
+      "recall_at_k": 1.0,
+      "reciprocal_rank": 1.0
+    },
+    {
+      "id": "G021",
+      "hit_at_k": 1.0,
+      "recall_at_k": 1.0,
+      "reciprocal_rank": 0.5
+    },
+    {
+      "id": "G022",
+      "hit_at_k": 1.0,
+      "recall_at_k": 1.0,
+      "reciprocal_rank": 1.0
+    },
+    {
+      "id": "G024",
+      "hit_at_k": 1.0,
+      "recall_at_k": 1.0,
+      "reciprocal_rank": 1.0
+    },
+    {
+      "id": "G026",
+      "hit_at_k": 1.0,
+      "recall_at_k": 1.0,
+      "reciprocal_rank": 1.0
+    },
+    {
+      "id": "G027",
+      "hit_at_k": 1.0,
+      "recall_at_k": 1.0,
+      "reciprocal_rank": 1.0
+    },
+    {
+      "id": "G028",
+      "hit_at_k": 1.0,
+      "recall_at_k": 0.5,
+      "reciprocal_rank": 1.0
+    },
+    {
+      "id": "G031",
+      "hit_at_k": 1.0,
+      "recall_at_k": 1.0,
+      "reciprocal_rank": 1.0
+    },
+    {
+      "id": "G032",
+      "hit_at_k": 1.0,
+      "recall_at_k": 1.0,
+      "reciprocal_rank": 1.0
+    },
+    {
+      "id": "G034",
+      "hit_at_k": 1.0,
+      "recall_at_k": 1.0,
+      "reciprocal_rank": 1.0
+    },
+    {
+      "id": "G035",
+      "hit_at_k": 0.0,
+      "recall_at_k": 0.0,
+      "reciprocal_rank": 0.0
+    },
+    {
+      "id": "G036",
+      "hit_at_k": 1.0,
+      "recall_at_k": 0.5,
+      "reciprocal_rank": 1.0
+    },
+    {
+      "id": "G037",
+      "hit_at_k": 1.0,
+      "recall_at_k": 1.0,
+      "reciprocal_rank": 1.0
+    },
+    {
+      "id": "G038",
+      "hit_at_k": 1.0,
+      "recall_at_k": 1.0,
+      "reciprocal_rank": 1.0
+    },
+    {
+      "id": "G039",
+      "hit_at_k": 1.0,
+      "recall_at_k": 1.0,
+      "reciprocal_rank": 1.0
+    },
+    {
+      "id": "G040",
+      "hit_at_k": 1.0,
+      "recall_at_k": 1.0,
+      "reciprocal_rank": 1.0
+    },
+    {
+      "id": "G042",
+      "hit_at_k": 0.0,
+      "recall_at_k": 0.0,
+      "reciprocal_rank": 0.0
+    },
+    {
+      "id": "G043",
+      "hit_at_k": 1.0,
+      "recall_at_k": 1.0,
+      "reciprocal_rank": 1.0
+    },
+    {
+      "id": "G046",
+      "hit_at_k": 1.0,
+      "recall_at_k": 1.0,
+      "reciprocal_rank": 1.0
+    },
+    {
+      "id": "G047",
+      "hit_at_k": 1.0,
+      "recall_at_k": 1.0,
+      "reciprocal_rank": 1.0
+    },
+    {
+      "id": "G048",
+      "hit_at_k": 1.0,
+      "recall_at_k": 1.0,
+      "reciprocal_rank": 1.0
+    },
+    {
+      "id": "G050",
+      "hit_at_k": 1.0,
+      "recall_at_k": 1.0,
+      "reciprocal_rank": 0.3333333333333333
+    },
+    {
+      "id": "G051",
+      "hit_at_k": 1.0,
+      "recall_at_k": 1.0,
+      "reciprocal_rank": 1.0
+    },
+    {
+      "id": "G052",
+      "hit_at_k": 1.0,
+      "recall_at_k": 1.0,
+      "reciprocal_rank": 0.5
+    },
+    {
+      "id": "G053",
+      "hit_at_k": 1.0,
+      "recall_at_k": 1.0,
+      "reciprocal_rank": 1.0
+    },
+    {
+      "id": "G055",
+      "hit_at_k": 1.0,
+      "recall_at_k": 1.0,
+      "reciprocal_rank": 1.0
+    },
+    {
+      "id": "G056",
+      "hit_at_k": 1.0,
+      "recall_at_k": 1.0,
+      "reciprocal_rank": 1.0
+    }
+  ],
+  "normalized_configuration_hash": "d0429c110f2bff2d19f3c4785442decdb4ca8fb382f9d978cf6889805a9a71ff",
+  "configuration_hash_scope": "Original upstream run identifier; normalized_configuration_hash covers the renamed labels. Measurements were not rerun."
+}

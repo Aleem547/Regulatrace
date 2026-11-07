@@ -1,0 +1,422 @@
+[
+  {
+    "file": "473MDD1229693F0604B6D996B1DF75C81E466.PDF",
+    "status": "restored",
+    "sha256": "66f2b0e43929335cb73f5b2c7bb638bede21de007163dcaf2554871d8d2723bc",
+    "bytes": 269114,
+    "download_method": "browser",
+    "pdf_url": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/473MDD1229693F0604B6D996B1DF75C81E466.PDF",
+    "pages": 10,
+    "text_characters": 15855
+  },
+  {
+    "file": "NT2800AE75657FD144B8ABC111ECF504BCC06.PDF",
+    "status": "restored",
+    "sha256": "38200e5772e439cdbbe6850525cbea6e944e61ef38681f7d44de15972150cdb6",
+    "bytes": 399187,
+    "download_method": "browser",
+    "pdf_url": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT2800AE75657FD144B8ABC111ECF504BCC06.PDF",
+    "pages": 2,
+    "text_characters": 4352
+  },
+  {
+    "file": "NT2796737482352AE4E488C0ECB304A05CDE1.PDF",
+    "status": "restored",
+    "sha256": "c9aced88076509127300621e4e516d32270118810b9d3181eb7fbee90ee74c06",
+    "bytes": 285220,
+    "download_method": "browser",
+    "pdf_url": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT2796737482352AE4E488C0ECB304A05CDE1.PDF",
+    "pages": 1,
+    "text_characters": 2102
+  },
+  {
+    "file": "NT278A39F641BB3C5485194734D495C3B914E.PDF",
+    "status": "restored",
+    "sha256": "615fbce0c0e7c0f2ef160fab053ec0a68ddd2cde2bbd13c2ccefdb16b8332699",
+    "bytes": 334940,
+    "download_method": "browser",
+    "pdf_url": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT278A39F641BB3C5485194734D495C3B914E.PDF",
+    "pages": 5,
+    "text_characters": 9312
+  },
+  {
+    "file": "NT277F3970CD9E76046B0870FB310FEAC22D9.PDF",
+    "status": "restored",
+    "sha256": "533f864ae2c0d8aac2dd2583a39512df4fddb514c0e82b2f8933a0d6f177e20c",
+    "bytes": 340007,
+    "download_method": "browser",
+    "pdf_url": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT277F3970CD9E76046B0870FB310FEAC22D9.PDF",
+    "pages": 5,
+    "text_characters": 9308
+  },
+  {
+    "file": "NT276B283340355CB4606A0E114A0985D9349.PDF",
+    "status": "restored",
+    "sha256": "19cc63b83b623fc4c230eba152ef67f483e513b8e03f454259eee0aa3ee2f6d9",
+    "bytes": 335149,
+    "download_method": "browser",
+    "pdf_url": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT276B283340355CB4606A0E114A0985D9349.PDF",
+    "pages": 5,
+    "text_characters": 9321
+  },
+  {
+    "file": "NT27591A82040B28E448E9C6F66A9C2855D70.PDF",
+    "status": "restored",
+    "sha256": "e84980f5b7f0f35bd974fbbde1b6f1a18b481136799737011ba4556ee632ff37",
+    "bytes": 336749,
+    "download_method": "browser",
+    "pdf_url": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT27591A82040B28E448E9C6F66A9C2855D70.PDF",
+    "pages": 5,
+    "text_characters": 9566
+  },
+  {
+    "file": "NOTI27401102026AA16BFEFF59341BF97FD2930B1A4A63C.PDF",
+    "status": "restored",
+    "sha256": "0cf07359c2e1bd0cb9ad63e445c7024ebc28eeb5b3f3dcb1f804cb00d5bac4fb",
+    "bytes": 444374,
+    "download_method": "browser",
+    "pdf_url": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOTI27401102026AA16BFEFF59341BF97FD2930B1A4A63C.PDF",
+    "pages": 23,
+    "text_characters": 50103
+  },
+  {
+    "file": "NOTI27301102026D31353CD354443869BCAD069E0BF15CC.PDF",
+    "status": "restored",
+    "sha256": "15f4cdf2950f1a25e8f80a4b2b979046ed5cfc0a42cd9cecc5a51fd22fdbb401",
+    "bytes": 156945,
+    "download_method": "browser",
+    "pdf_url": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOTI27301102026D31353CD354443869BCAD069E0BF15CC.PDF",
+    "pages": 1,
+    "text_characters": 996
+  },
+  {
+    "file": "272MC011020266691348260DF4CF99ACE017F146409F1.PDF",
+    "status": "restored",
+    "sha256": "b8a13c2a7651eb84e68d733ff50125f02bb8a9e15d4cec6102f4661a628ac658",
+    "bytes": 265034,
+    "download_method": "browser",
+    "pdf_url": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/272MC011020266691348260DF4CF99ACE017F146409F1.PDF",
+    "pages": 8,
+    "text_characters": 13469
+  },
+  {
+    "file": "NOTI2713C3AD0FCF88D4E0682D80BD7FC932BF9.PDF",
+    "status": "restored",
+    "sha256": "a72b0c02b83457166d4f8691a13a22c2e9930b61c29a00bb94022bd8e7142887",
+    "bytes": 299955,
+    "download_method": "browser",
+    "pdf_url": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOTI2713C3AD0FCF88D4E0682D80BD7FC932BF9.PDF",
+    "pages": 3,
+    "text_characters": 5621
+  },
+  {
+    "file": "FEMA23R2509202677C08DEDE2694B528FF6025930BF49F9.PDF",
+    "status": "restored",
+    "sha256": "d6b5a89147df89d8c6dc9d514ecd0eaae1b8db5d21cb9dde5ec6462bb964717a",
+    "bytes": 157321,
+    "download_method": "browser",
+    "pdf_url": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/FEMA23R2509202677C08DEDE2694B528FF6025930BF49F9.PDF",
+    "pages": 1,
+    "text_characters": 2840
+  },
+  {
+    "file": "NOTI27024092026B5163644F687458B97DB7E5AF0FF4FDD.PDF",
+    "status": "restored",
+    "sha256": "93c944624b4c6ec1589c782c37c4dce064f4a5a16bffaf52f08cb00661b380d5",
+    "bytes": 208035,
+    "download_method": "browser",
+    "pdf_url": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOTI27024092026B5163644F687458B97DB7E5AF0FF4FDD.PDF",
+    "pages": 2,
+    "text_characters": 2865
+  },
+  {
+    "file": "NT269D2CF6DE13687460D8CFB6E8AD0CDEF4E.PDF",
+    "status": "restored",
+    "sha256": "88c8f50c9f51ed0751cc89cc2cc2fae548ac3a564a0c4ae49dcab381f3a166d9",
+    "bytes": 270161,
+    "download_method": "browser",
+    "pdf_url": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT269D2CF6DE13687460D8CFB6E8AD0CDEF4E.PDF",
+    "pages": 2,
+    "text_characters": 3457
+  },
+  {
+    "file": "NT26840D3650D40D2475CB0378668FD8B8EC1.PDF",
+    "status": "restored",
+    "sha256": "4de478a2e8db526f552b830bbd35e7b74dc40801b13791915229bc466864dbaf",
+    "bytes": 231297,
+    "download_method": "browser",
+    "pdf_url": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT26840D3650D40D2475CB0378668FD8B8EC1.PDF",
+    "pages": 2,
+    "text_characters": 3567
+  },
+  {
+    "file": "NT267F885FEF645D54E6DAC327AE684434E56.PDF",
+    "status": "restored",
+    "sha256": "fbbc46dd7874b3eaa2e0768b64ea4b101b8ffdcb3529356ca34c4a1ea192a4a8",
+    "bytes": 232302,
+    "download_method": "browser",
+    "pdf_url": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT267F885FEF645D54E6DAC327AE684434E56.PDF",
+    "pages": 2,
+    "text_characters": 3509
+  },
+  {
+    "file": "NT2663B9D47D9B0A147A5A2F0574A11554B97.PDF",
+    "status": "restored",
+    "sha256": "85c91dbcda4ec7835960ad7d01adb0bb8a1b8bbeb14149145d55b1164a8d4ee8",
+    "bytes": 250073,
+    "download_method": "browser",
+    "pdf_url": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT2663B9D47D9B0A147A5A2F0574A11554B97.PDF",
+    "pages": 2,
+    "text_characters": 3551
+  },
+  {
+    "file": "NT265E0CD6C792E7548DD945E004BEA0C948C.PDF",
+    "status": "restored",
+    "sha256": "aa33f74c17ed9350dc9b1825500786771403ab92a84f42dfa4881c76ce2fdacc",
+    "bytes": 249926,
+    "download_method": "browser",
+    "pdf_url": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT265E0CD6C792E7548DD945E004BEA0C948C.PDF",
+    "pages": 2,
+    "text_characters": 3526
+  },
+  {
+    "file": "NT26408EF9CCC46424A929E01BF357BC7936C.PDF",
+    "status": "restored",
+    "sha256": "758ca34d7249caff66868a26240c424710dae948452512c57f0f5ea628499a19",
+    "bytes": 249339,
+    "download_method": "browser",
+    "pdf_url": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT26408EF9CCC46424A929E01BF357BC7936C.PDF",
+    "pages": 2,
+    "text_characters": 3515
+  },
+  {
+    "file": "NT263695FF625A09A48248840B53359D48063.PDF",
+    "status": "restored",
+    "sha256": "8bcf2513679542d4f5636fb7a217a9a3493502732c3c2968f34d278f3ecd847c",
+    "bytes": 152934,
+    "download_method": "browser",
+    "pdf_url": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT263695FF625A09A48248840B53359D48063.PDF",
+    "pages": 2,
+    "text_characters": 2301
+  },
+  {
+    "file": "1790852162769.pdf",
+    "status": "restored",
+    "bytes": 381761,
+    "sha256": "32fb02a8ba1e640c9b6cf74f85f3a7fc049163c73b8ab03e2aa9f75b98dbb2cd",
+    "source_url": "https://www.sebi.gov.in/legal/circulars/oct-2026/display-of-investor-awareness-message-s-by-stock-brokers-on-their-trading-apps-and-websites-under-project-jagrook_104858.html",
+    "pdf_url": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1790852162769.pdf",
+    "pages": 3,
+    "text_characters": 3872
+  },
+  {
+    "file": "1788788875715.pdf",
+    "status": "restored",
+    "bytes": 380348,
+    "sha256": "30d0dc19c4ab794eb5af010f8a470dc2c12412a8e09b3ec2e12a43f5dc2bf486",
+    "source_url": "https://www.sebi.gov.in/legal/circulars/sep-2026/relaxation-in-timeline-with-respect-to-accredited-investor-mandate-for-angel-funds_104323.html",
+    "pdf_url": "https://www.sebi.gov.in/sebi_data/attachdocs/sep-2026/1788788875715.pdf",
+    "pages": 3,
+    "text_characters": 4076
+  },
+  {
+    "file": "1787914585756.pdf",
+    "status": "restored",
+    "bytes": 121766,
+    "sha256": "456ad5f299578a455d280befb7d9643b7b8d97c0f7f64970f5757c1f8206be16",
+    "source_url": "https://www.sebi.gov.in/legal/circulars/aug-2026/extension-of-timeline-for-implementation-of-provisions-of-sebi-circular-dated-june-15-2026-on-norms-for-base-price-price-bands-call-auction-in-pre-open-session-and-close-out-procedure-for-exchange-_104094.html",
+    "pdf_url": "https://www.sebi.gov.in/sebi_data/attachdocs/aug-2026/1787914585756.pdf",
+    "pages": 2,
+    "text_characters": 2384
+  },
+  {
+    "file": "1787569463244.pdf",
+    "status": "restored",
+    "bytes": 1002276,
+    "sha256": "dfa78c1c81d50f9b61964ddeb7d8ee7dfa0d5ca516acb45459ca1fab14a7c1f1",
+    "source_url": "https://www.sebi.gov.in/legal/circulars/aug-2026/alignment-of-sebi-s-cyber-incident-reporting-portal-with-fire-format_103915.html",
+    "pdf_url": "https://www.sebi.gov.in/sebi_data/attachdocs/aug-2026/1787569463244.pdf",
+    "pages": 4,
+    "text_characters": 8846
+  },
+  {
+    "file": "1787568759364.pdf",
+    "status": "restored",
+    "bytes": 704073,
+    "sha256": "b04dfd62819300887b70c11163ce4bd1c6ecd84f09509aafef82781fb1caaafe",
+    "source_url": "https://www.sebi.gov.in/legal/circulars/aug-2026/it-resilience-index-for-market-infrastructure-institutions-miis-_103913.html",
+    "pdf_url": "https://www.sebi.gov.in/sebi_data/attachdocs/aug-2026/1787568759364.pdf",
+    "pages": 4,
+    "text_characters": 7111
+  },
+  {
+    "file": "1787224027885.pdf",
+    "status": "restored",
+    "bytes": 639304,
+    "sha256": "b7eee7594965ecf5c2c7a6ccd3b6049bcdd89d36f9e60bf267754fd3199db458",
+    "source_url": "https://www.sebi.gov.in/legal/circulars/aug-2026/acceptance-of-digitally-signed-power-of-attorney-from-fpis_103824.html",
+    "pdf_url": "https://www.sebi.gov.in/sebi_data/attachdocs/aug-2026/1787224027885.pdf",
+    "pages": 2,
+    "text_characters": 3022
+  },
+  {
+    "file": "1787285998826.pdf",
+    "status": "restored",
+    "bytes": 460590,
+    "sha256": "5618b16208054ce30095307acccded6ad37771b6ab7b62183e85ed196be02acf",
+    "source_url": "https://www.sebi.gov.in/legal/circulars/aug-2026/enabling-sharing-of-information-by-kyc-registration-agencies-kras-with-entities-regulated-by-international-financial-services-centres-authority_103823.html",
+    "pdf_url": "https://www.sebi.gov.in/sebi_data/attachdocs/aug-2026/1787285998826.pdf",
+    "pages": 2,
+    "text_characters": 2873
+  },
+  {
+    "file": "1786705729757.pdf",
+    "status": "restored",
+    "bytes": 726984,
+    "sha256": "2e2e9b36b4b9d7c4cbca8ad04e5fd139f4f737101e9193750fc1f97ee4f9e4f6",
+    "source_url": "https://www.sebi.gov.in/legal/circulars/aug-2026/modification-in-the-regulatory-framework-for-online-bond-platform-providers-obpps-including-measures-for-promoting-ease-of-doing-business_103647.html",
+    "pdf_url": "https://www.sebi.gov.in/sebi_data/attachdocs/aug-2026/1786705729757.pdf",
+    "pages": 4,
+    "text_characters": 6664
+  },
+  {
+    "file": "1786705393789.pdf",
+    "status": "restored",
+    "bytes": 714392,
+    "sha256": "925235333fd5622489cee6e4983566f8a5bc586583c5d431fe6bb151554473bb",
+    "source_url": "https://www.sebi.gov.in/legal/circulars/aug-2026/framework-for-calculation-of-net-distributable-cash-flows-for-invits_103644.html",
+    "pdf_url": "https://www.sebi.gov.in/sebi_data/attachdocs/aug-2026/1786705393789.pdf",
+    "pages": 8,
+    "text_characters": 12092
+  },
+  {
+    "file": "1786537329546.pdf",
+    "status": "restored",
+    "bytes": 273538,
+    "sha256": "b0a2f7d8d6bc25d49f3bb892a2e25e06e3f63c5e4b2a3b859356f9b1b79947a9",
+    "source_url": "https://www.sebi.gov.in/legal/circulars/aug-2026/review-of-inclusion-of-historical-scenarios-in-stress-testing-for-commodity-derivatives-segment_103521.html",
+    "pdf_url": "https://www.sebi.gov.in/sebi_data/attachdocs/aug-2026/1786537329546.pdf",
+    "pages": 2,
+    "text_characters": 3338
+  },
+  {
+    "file": "1786447511614.pdf",
+    "status": "restored",
+    "bytes": 311449,
+    "sha256": "5797d50f77e399c4ed97f9a041b8a60e354d18b5de1a1c17b9d23ad065b7d4be",
+    "source_url": "https://www.sebi.gov.in/legal/circulars/aug-2026/amendment-to-sebi-issue-and-listing-of-municipal-debt-securities-regulations-2015-ilmds-regulations-_103488.html",
+    "pdf_url": "https://www.sebi.gov.in/sebi_data/attachdocs/aug-2026/1786447511614.pdf",
+    "pages": 5,
+    "text_characters": 6364
+  },
+  {
+    "file": "1785760104221.pdf",
+    "status": "restored",
+    "bytes": 460668,
+    "sha256": "84c48ede9d2c079ffa93e973e27c9a67bb078757b541df276297cdd59f183523",
+    "source_url": "https://www.sebi.gov.in/legal/circulars/aug-2026/extension-of-timeline-for-enrolment-with-parrva-as-specified-in-sebi-circular-no-ho-38-14-4-2026-mirsd-pod-i-10557-2026-dated-april-29-2026_103314.html",
+    "pdf_url": "https://www.sebi.gov.in/sebi_data/attachdocs/aug-2026/1785760104221.pdf",
+    "pages": 2,
+    "text_characters": 2465
+  },
+  {
+    "file": "1785493077212.pdf",
+    "status": "restored",
+    "bytes": 204202,
+    "sha256": "ef90f572d0816ddcff06812e7b0fa2d46750c6cb89e8c31aaebf0650182c67a7",
+    "source_url": "https://www.sebi.gov.in/legal/circulars/jul-2026/extension-of-timelines-with-repect-to-compliance-of-digital-accessibility-circulars-_103277.html",
+    "pdf_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jul-2026/1785493077212.pdf",
+    "pages": 2,
+    "text_characters": 0
+  },
+  {
+    "file": "1785412195539.pdf",
+    "status": "restored",
+    "bytes": 318985,
+    "sha256": "475e54c6de8ff6093c36c14c19065e41488ab33444f0b6bc6ae00932e3ededbe",
+    "source_url": "https://www.sebi.gov.in/legal/circulars/jul-2026/-green-channel-aif-rollout-upon-document-acknowledgement-garuda-mechanism-for-processing-of-placement-memorandum-of-alternative-investment-funds-aifs-filed-with-sebi_103241.html",
+    "pdf_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jul-2026/1785412195539.pdf",
+    "pages": 6,
+    "text_characters": 12547
+  },
+  {
+    "file": "1784869499027.pdf",
+    "status": "restored",
+    "bytes": 802991,
+    "sha256": "1fa7fdbd6f70d052f272ab9fc9afa8ddf4dfe246d6fd77084c847ef41226ac00",
+    "source_url": "https://www.sebi.gov.in/legal/circulars/jul-2026/ease-of-doing-investment-and-ease-of-doing-business-simplification-and-standardisation-of-the-framework-for-transmission-of-securities_103030.html",
+    "pdf_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jul-2026/1784869499027.pdf",
+    "pages": 38,
+    "text_characters": 52737
+  },
+  {
+    "file": "1784633350069.pdf",
+    "status": "restored",
+    "bytes": 535776,
+    "sha256": "ace9061d6d8417f8cf0569affa640f4d45e9b913e3ec8813f3ecf8c17bd47c92",
+    "source_url": "https://www.sebi.gov.in/legal/circulars/jul-2026/certification-requirements-for-distribution-of-specialized-investment-funds-sifs-_102986.html",
+    "pdf_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jul-2026/1784633350069.pdf",
+    "pages": 3,
+    "text_characters": 3763
+  },
+  {
+    "file": "1784632576164.pdf",
+    "status": "restored",
+    "bytes": 206420,
+    "sha256": "4551a9ded41738aca3c2a916b0267edb26f58b59c78de7938565ed139cfeb8fc",
+    "source_url": "https://www.sebi.gov.in/legal/circulars/jul-2026/operationalisation-of-freezing-of-holdings-of-promoter-and-promoter-group-including-their-associates-promoter-holdings-at-the-isin-level-under-regulation-24-i-ea-of-the-sebi-buy-back-of-securitie-_102978.html",
+    "pdf_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jul-2026/1784632576164.pdf",
+    "pages": 2,
+    "text_characters": 3475
+  },
+  {
+    "file": "1784285542603.pdf",
+    "status": "restored",
+    "bytes": 464566,
+    "sha256": "0822d6895e61d08d215bfd7f7c52f86e87f8525b3f94970bc07ab620269530db",
+    "source_url": "https://www.sebi.gov.in/legal/circulars/jul-2026/extending-facility-of-creating-standing-instructions-for-systematic-withdrawal-plan-swp-systematic-transfer-plan-stp-for-mutual-fund-units-held-in-demat-form_102914.html",
+    "pdf_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jul-2026/1784285542603.pdf",
+    "pages": 2,
+    "text_characters": 3728
+  },
+  {
+    "file": "1783685402131.pdf",
+    "status": "restored",
+    "bytes": 381528,
+    "sha256": "d38917b7e01283b6f11a313ae74c9a3cc876176e71a3b4bc69f290b8559e0b9b",
+    "source_url": "https://www.sebi.gov.in/legal/circulars/jul-2026/intraday-borrowing-facility-availed-by-mutual-funds_102762.html",
+    "pdf_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jul-2026/1783685402131.pdf",
+    "pages": 3,
+    "text_characters": 3953
+  },
+  {
+    "file": "1783423471963.pdf",
+    "status": "restored",
+    "bytes": 452164,
+    "sha256": "492f6927e477da56a3cb0368507c897502096ae38ea6b759eeed686485dcfbe2",
+    "source_url": "https://www.sebi.gov.in/legal/circulars/jul-2026/review-of-norms-for-utilization-of-interest-or-income-from-ipf-of-the-depositories_102639.html",
+    "pdf_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jul-2026/1783423471963.pdf",
+    "pages": 3,
+    "text_characters": 4042
+  },
+  {
+    "file": "94MDAHSVRBC80A53F9E5D324A948540B84F580DE15F.PDF",
+    "status": "restored",
+    "sha256": "5a5b32693256419245bc1e76819db9f27507f40d5e20a900ffb3d2496c6e9bcf",
+    "bytes": 991244,
+    "download_method": "browser",
+    "pdf_url": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/94MDAHSVRBC80A53F9E5D324A948540B84F580DE15F.PDF",
+    "pages": 15,
+    "text_characters": 26569
+  },
+  {
+    "file": "1781524158363.pdf",
+    "status": "restored",
+    "bytes": 255438,
+    "sha256": "02a17a0314b23d8f92959db249aea9c1a9cf683ea42a951dd017ebc35fbfc7c5",
+    "source_url": "https://www.sebi.gov.in/legal/circulars/jun-2026/norms-for-base-price-price-bands-call-auction-in-pre-open-session-and-close-out-procedure-for-exchange-traded-funds-etfs-_102121.html",
+    "pdf_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jun-2026/1781524158363.pdf",
+    "pages": 6,
+    "text_characters": 8553
+  }
+]

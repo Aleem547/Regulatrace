@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+pydantic==2.12.5
+pydantic-settings
+langchain-core
+tiktoken
+qdrant-client==1.20.0
+SQLAlchemy
+psycopg2-binary
+alembic
+groq==1.7.0
+argon2-cffi
+PyJWT
+email-validator
+httpx

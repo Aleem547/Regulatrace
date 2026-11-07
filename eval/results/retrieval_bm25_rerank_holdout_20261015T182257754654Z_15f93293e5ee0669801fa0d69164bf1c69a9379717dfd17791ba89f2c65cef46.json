@@ -1,0 +1,156 @@
+{
+  "timestamp_utc": "2026-10-15T18:22:57.754654Z",
+  "method": "bm25_rerank_holdout",
+  "configuration_hash": "15f93293e5ee0669801fa0d69164bf1c69a9379717dfd17791ba89f2c65cef46",
+  "configuration": {
+    "method": "bm25_rerank",
+    "k": 5,
+    "qdrant_collection": "regulatrace_bm25",
+    "bm25_model": "qdrant/bm25",
+    "sparse_vector": "bm25",
+    "modifier": "idf",
+    "candidate_k": 20,
+    "final_k": 5,
+    "reranker_model": "BAAI/bge-reranker-base",
+    "split": "holdout",
+    "abstention_threshold": 0.6
+  },
+  "counts": {
+    "holdout_questions": 12,
+    "answerable_evaluated": 10,
+    "unanswerable_evaluated": 2,
+    "correct_refusals": 2,
+    "missed_refusals": 0,
+    "wrong_refusals": 1,
+    "correct_acceptances": 9
+  },
+  "rates": {
+    "correct_refusal_rate": 1.0,
+    "wrong_refusal_rate": 0.1
+  },
+  "metrics": {
+    "hit_at_k": 0.8,
+    "recall_at_k": 0.8,
+    "mrr": 0.7333333333333333
+  },
+  "retrieval_latency_p50_ms": 30.0937500433065,
+  "rerank_latency_p50_ms": 3397.601499920711,
+  "per_question": [
+    {
+      "id": "G001",
+      "type": "factoid",
+      "answerable": true,
+      "abstain": false,
+      "top_rerank_score": 0.9928264617919922,
+      "hit_at_k": 1.0,
+      "recall_at_k": 1.0,
+      "reciprocal_rank": 0.3333333333333333
+    },
+    {
+      "id": "G014",
+      "type": "unanswerable",
+      "answerable": false,
+      "abstain": true,
+      "top_rerank_score": 0.46874380111694336
+    },
+    {
+      "id": "G018",
+      "type": "factoid",
+      "answerable": true,
+      "abstain": false,
+      "top_rerank_score": 0.9953867793083191,
+      "hit_at_k": 1.0,
+      "recall_at_k": 1.0,
+      "reciprocal_rank": 1.0
+    },
+    {
+      "id": "G019",
+      "type": "factoid",
+      "answerable": true,
+      "abstain": false,
+      "top_rerank_score": 0.8952707052230835,
+      "hit_at_k": 1.0,
+      "recall_at_k": 1.0,
+      "reciprocal_rank": 1.0
+    },
+    {
+      "id": "G023",
+      "type": "multi-section",
+      "answerable": true,
+      "abstain": false,
+      "top_rerank_score": 0.9941022992134094,
+      "hit_at_k": 1.0,
+      "recall_at_k": 1.0,
+      "reciprocal_rank": 1.0
+    },
+    {
+      "id": "G025",
+      "type": "table_lookup",
+      "answerable": true,
+      "abstain": false,
+      "top_rerank_score": 0.6093636751174927,
+      "hit_at_k": 1.0,
+      "recall_at_k": 1.0,
+      "reciprocal_rank": 1.0
+    },
+    {
+      "id": "G033",
+      "type": "factoid",
+      "answerable": true,
+      "abstain": false,
+      "top_rerank_score": 0.9991428852081299,
+      "hit_at_k": 1.0,
+      "recall_at_k": 1.0,
+      "reciprocal_rank": 1.0
+    },
+    {
+      "id": "G041",
+      "type": "table_lookup",
+      "answerable": true,
+      "abstain": true,
+      "top_rerank_score": 0.22328467667102814,
+      "hit_at_k": 0.0,
+      "recall_at_k": 0.0,
+      "reciprocal_rank": 0.0
+    },
+    {
+      "id": "G049",
+      "type": "factoid",
+      "answerable": true,
+      "abstain": false,
+      "top_rerank_score": 0.9678682684898376,
+      "hit_at_k": 0.0,
+      "recall_at_k": 0.0,
+      "reciprocal_rank": 0.0
+    },
+    {
+      "id": "G054",
+      "type": "multi-section",
+      "answerable": true,
+      "abstain": false,
+      "top_rerank_score": 0.8491576910018921,
+      "hit_at_k": 1.0,
+      "recall_at_k": 1.0,
+      "reciprocal_rank": 1.0
+    },
+    {
+      "id": "G057",
+      "type": "date_version",
+      "answerable": true,
+      "abstain": false,
+      "top_rerank_score": 0.9900335669517517,
+      "hit_at_k": 1.0,
+      "recall_at_k": 1.0,
+      "reciprocal_rank": 1.0
+    },
+    {
+      "id": "G060",
+      "type": "unanswerable",
+      "answerable": false,
+      "abstain": true,
+      "top_rerank_score": 0.25259363651275635
+    }
+  ],
+  "normalized_configuration_hash": "960bed4d97a16642183a7a185c4a3a5de47e2b9e44216a0e9d766e6699bc90b9",
+  "configuration_hash_scope": "Original upstream run identifier; normalized_configuration_hash covers the renamed labels. Measurements were not rerun."
+}

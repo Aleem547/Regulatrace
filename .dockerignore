@@ -1,0 +1,37 @@
+# Only application source, manifests, packaging metadata and migrations enter the context.
+# This also excludes .git, .env*, virtualenvs, local PostgreSQL/Qdrant storage,
+# frontend/node_modules, data (including raw PDFs), benchmarks, tests and docs.
+**
+!Dockerfile
+!.dockerignore
+!pyproject.toml
+!README.md
+!requirements-runtime.txt
+!src/
+!src/**
+!prompts/
+!prompts/**
+!alembic.ini
+!alembic/
+!alembic/**
+!frontend/
+!frontend/**
+!data/
+!data/manifest.csv
+
+# Keep local artifacts and secrets out of the allowed directories as well.
+**/__pycache__
+**/*.py[cod]
+**/*.egg-info
+**/.env
+**/.env.*
+**/.git
+**/.venv
+**/.cache
+**/node_modules
+**/dist
+**/*.tsbuildinfo
+**/*.pdf
+**/*.log
+**/*.pem
+**/*.key

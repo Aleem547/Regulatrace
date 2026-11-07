@@ -1,0 +1,2 @@
+-r ../vercel-api/requirements.txt
+huggingface-hub==1.33.0

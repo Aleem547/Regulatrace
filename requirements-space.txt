@@ -1,0 +1,20 @@
+# Hugging Face installs requirements before copying the project into /app.
+# Keep this a registry-only input: app.py adds src to sys.path at runtime.
+# Match the Gradio extras injected by the SDK build, including their Pydantic bound.
+# The SDK supplies spaces; co-resolve its current pin without emitting it in the lock.
+gradio[oauth,mcp]==6.31.0
+spaces==0.51.3
+torch==2.13.0
+sentence-transformers==6.2.0
+qdrant-client==1.20.0
+fastembed==0.9.1
+groq==1.7.0
+pydantic-settings>=2.0.0
+numpy>=1.24.0
+pymupdf>=1.23.0
+langchain-core>=1.4.7,<2.0.0
+langchain-text-splitters>=0.2.0
+tiktoken>=0.14.0,<1.0.0
+sqlalchemy>=2.0.0,<3.0.0
+psycopg2-binary>=2.9.0,<3.0.0
+alembic>=1.13.0,<2.0.0
