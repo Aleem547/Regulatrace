@@ -30,6 +30,4 @@ accounts or saved sessions and does not load the missing original 42-PDF corpus.
 Historical benchmark scores from the full application do not evaluate this profile.
 
 The full React/FastAPI source is available at
-<https://github.com/Aleem547/Regulatrace>. Original source credit and permission
-notes are in `UPSTREAM.md`: adapted from the original code by Faizan0602; the
-[upstream repository record](https://api.github.com/repositories/1403548102) is retained.
+<https://github.com/Aleem547/Regulatrace>.
