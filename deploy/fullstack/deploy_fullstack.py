@@ -1,6 +1,3 @@
-"""Publish the free Regulatrace profile through private local prompts and official CLIs."""
-# ruff: noqa: E402 -- packaged application source is configured before its imports
-
 import argparse
 import getpass
 import hashlib
