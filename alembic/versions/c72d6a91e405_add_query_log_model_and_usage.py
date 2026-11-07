@@ -1,9 +1,3 @@
-"""Add nullable model and provider usage details to existing query logs.
-
-Revision ID: c72d6a91e405
-Revises: b6f3d92e1a74
-"""
-
 import sqlalchemy as sa
 from alembic import op
 from sqlalchemy.dialects import postgresql
