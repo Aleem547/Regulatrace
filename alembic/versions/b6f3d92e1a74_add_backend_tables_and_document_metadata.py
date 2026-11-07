@@ -1,8 +1,4 @@
-"""Add backend tables and nullable document metadata.
 
-Revision ID: b6f3d92e1a74
-Revises: a81bf1bcdcd6
-"""
 
 import sqlalchemy as sa
 from alembic import op
