@@ -3,9 +3,6 @@
 The Regulatrace distribution and its deployment are maintained by
 [Abdul Aleem Ansari (@Aleem547)](https://github.com/Aleem547).
 
-The supplied source archive contained 124 files. Existing implementation,
-authorship references, evaluation artifacts and historical findings are retained.
-
 This distribution adds deployment configuration checks,
 combined frontend/API container packaging, explicit PostgreSQL driver compatibility,
 an index preparation command and deployment documentation. These additions do not
